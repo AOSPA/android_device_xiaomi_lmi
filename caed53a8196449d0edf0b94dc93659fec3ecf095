@@ -16,6 +16,24 @@
       "message": "android.hardware.bluetooth.audio@2.1-impl defines libbluetooth_audio_session as a shared library.  I am thinking remove both and see if BT still works.\n",
       "revId": "caed53a8196449d0edf0b94dc93659fec3ecf095",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c85bcc49_a2961c8a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2022-08-24T22:56:04Z",
+      "side": 1,
+      "message": "Tested in a TWS+ buds, it works just fine.",
+      "parentUuid": "b81d7eb4_c72af062",
+      "revId": "caed53a8196449d0edf0b94dc93659fec3ecf095",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
