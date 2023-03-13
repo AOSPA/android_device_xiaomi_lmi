@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8d7bde10_c2ae2983",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 260,
+      "author": {
+        "id": 1000843
+      },
+      "writtenOn": "2023-03-13T01:06:44Z",
+      "side": 1,
+      "message": "I don\u0027t think you can do this, it will end up not inlcuding the \"all\" hals",
+      "revId": "dd4a93389bcae036a3607e5a56f1fa044dbc20a0",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
