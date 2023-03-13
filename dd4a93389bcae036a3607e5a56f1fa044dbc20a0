@@ -16,6 +16,24 @@
       "message": "I don\u0027t think you can do this, it will end up not inlcuding the \"all\" hals",
       "revId": "dd4a93389bcae036a3607e5a56f1fa044dbc20a0",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d864a64a_aa6e4830",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 260,
+      "author": {
+        "id": 1000843
+      },
+      "writtenOn": "2023-03-13T01:35:39Z",
+      "side": 1,
+      "message": "...it is either you add all with nothing below, or add the whole thing with charger included",
+      "parentUuid": "8d7bde10_c2ae2983",
+      "revId": "dd4a93389bcae036a3607e5a56f1fa044dbc20a0",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
