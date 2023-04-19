@@ -34,6 +34,24 @@
       "parentUuid": "8d7bde10_c2ae2983",
       "revId": "dd4a93389bcae036a3607e5a56f1fa044dbc20a0",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0852b406_f7115d6a",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 260,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2023-04-19T21:55:46Z",
+      "side": 1,
+      "message": "Now it\u0027s possible",
+      "parentUuid": "d864a64a_aa6e4830",
+      "revId": "dd4a93389bcae036a3607e5a56f1fa044dbc20a0",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
