@@ -237,7 +237,11 @@ TARGET_BOARD_PLATFORM := kona
 
 # Popup Camera Settings
 PRODUCT_PACKAGES += \
-    PopupCameraSettings \
+    PopupCameraSettings
+
+# Privapp-permissions
+PRODUCT_SYSTEM_EXT_PROPERTIES += \
+    ro.control_privapp_permissions=log
 
 # QCRIL
 PRODUCT_VENDOR_PROPERTIES += \
