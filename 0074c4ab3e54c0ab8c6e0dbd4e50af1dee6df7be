@@ -16,6 +16,24 @@
       "message": "why did you use different change id?\nuse I79ecd91513df0d195e1d15d20b4438d1b283743f",
       "revId": "0074c4ab3e54c0ab8c6e0dbd4e50af1dee6df7be",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "48a4d7e1_63d67500",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2023-11-02T14:02:38Z",
+      "side": 1,
+      "message": "well, I cherry-pick it from Porsche: https://gerrit.aospa.co/c/AOSPA/android_device_realme_porsche/+/36420",
+      "parentUuid": "7ed5fbcf_d93c537f",
+      "revId": "0074c4ab3e54c0ab8c6e0dbd4e50af1dee6df7be",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
