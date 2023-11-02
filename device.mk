@@ -217,11 +217,11 @@ PRODUCT_SOONG_NAMESPACES += \
 # Overlays
 PRODUCT_PACKAGES += \
     AOSPALmiFrameworks \
-    AOSPALmiSettings \
     AOSPALmiSystemUI \
     LmiCarrierConfig \
     LmiFrameworks \
     LmiNfc \
+    LmiSettings \
     LmiSystemUI \
     FrameworksResTarget \
     WifiResTarget
