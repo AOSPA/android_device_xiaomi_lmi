@@ -201,6 +201,12 @@ PRODUCT_VENDOR_PROPERTIES += \
 PRODUCT_PACKAGES += \
     android.hardware.light-service.xiaomi
 
+# Lineage Health
+PRODUCT_PACKAGES += \
+    vendor.lineage.health-service.default
+
+TARGET_HEALTH_CHARGING_CONTROL_SUPPORTS_BYPASS := false
+
 # Motor
 PRODUCT_PACKAGES += \
     vendor.xiaomi.hardware.motor@1.0.vendor
