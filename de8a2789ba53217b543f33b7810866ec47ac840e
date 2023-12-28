@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3b1a8e05_dbe81389",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000541
+      },
+      "writtenOn": "2023-12-28T14:48:10Z",
+      "side": 1,
+      "message": "as a reminder, this will force a clean flash IIRC",
+      "revId": "de8a2789ba53217b543f33b7810866ec47ac840e",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
