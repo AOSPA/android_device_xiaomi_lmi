@@ -153,4 +153,5 @@ TARGET_RELEASETOOLS_EXTENSIONS := $(DEVICE_PATH)
 ENABLE_VENDOR_RIL_SERVICE := true
 
 # SELinux
+-include device/xiaomi/sepolicy/SEPolicy.mk
 -include device/xiaomi/lmi/sepolicy/lmi-sepolicy.mk
