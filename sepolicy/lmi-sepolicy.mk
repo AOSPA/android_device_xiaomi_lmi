@@ -27,12 +27,9 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
 # Xiaomi Sepolicy
 BOARD_VENDOR_SEPOLICY_DIRS += \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/audio \
-    device/xiaomi/lmi/sepolicy/vendor/xiaomi/battery \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/bluetooth \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/camera \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/fingerprint \
-    device/xiaomi/lmi/sepolicy/vendor/xiaomi/ir \
-    device/xiaomi/lmi/sepolicy/vendor/xiaomi/light \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/modem \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/motor \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/power_supply \
@@ -41,6 +38,4 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/touch \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/touchfeature \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/usb \
-    device/xiaomi/lmi/sepolicy/vendor/xiaomi/wireless \
     device/xiaomi/lmi/sepolicy/vendor/xiaomi/wlan
-
