@@ -228,10 +228,7 @@ PRODUCT_PACKAGES += \
     LmiFrameworks \
     LmiNfc \
     LmiSettings \
-    LmiSystemUI \
-    FrameworksResTarget \
-    WifiResTarget \
-    WifiMainline
+    LmiSystemUI
 
 # CertifiedProps
 PRODUCT_PACKAGES += \
