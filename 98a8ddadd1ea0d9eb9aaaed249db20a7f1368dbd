@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "074ac41d_0d6d3d14",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2024-03-23T16:41:54Z",
+      "side": 1,
+      "message": "Breaks screen-off udfps",
+      "revId": "98a8ddadd1ea0d9eb9aaaed249db20a7f1368dbd",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
